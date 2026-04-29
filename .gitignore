@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.env
+.env.local
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+.claude/
+
+# Source assets — already copied into /public
+Divine photos/
+Copy of Divine Raj Resume Final.pdf
