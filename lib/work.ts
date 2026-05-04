@@ -17,7 +17,7 @@ export const caseStudies: CaseStudy[] = [
     role: 'Product Manager',
     org: 'TN EMIS · School Education Department',
     period: 'Feb 2024 — present',
-    outcome: 'Tagged 1.2 crore students to MSME industries across a four-phase statewide rollout.',
+    outcome: 'Tagged 30,000 students and 400 teachers to MSME industries across a four-phase statewide rollout.',
     one_liner: 'A scalable vocational system, end-to-end.',
     cover_color: 'from-sienna to-sienna-deep',
     cover_label: '01',

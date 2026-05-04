@@ -21,12 +21,12 @@ const instrumentSerif = Instrument_Serif({
 export const metadata: Metadata = {
   title: 'Antony Divine Raj — Product Manager',
   description:
-    'Product manager building public-good tech at scale. Currently shipping at TN EMIS, reaching 5 lakh teachers and 1.2 crore students.',
-  metadataBase: new URL('https://divine-portfolio.vercel.app'),
+    'Product manager building public-good tech at scale. Currently shipping at TN EMIS, reaching 5 lakh teachers and 1.23 crore students.',
+  metadataBase: new URL('https://divine-portfolio-chi.vercel.app'),
   openGraph: {
     title: 'Antony Divine Raj — Product Manager',
     description:
-      'Product manager building public-good tech at scale. 5,00,000 teachers · 1,20,00,000 students · 13 products shipped.',
+      'Product manager building public-good tech at scale. 5 lakh teachers · 1.23 crore students · 13 products shipped.',
     type: 'website',
     images: ['/photos/hero-india-gate.jpeg'],
   },

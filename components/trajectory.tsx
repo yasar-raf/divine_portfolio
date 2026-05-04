@@ -50,14 +50,14 @@ export function Trajectory() {
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true, margin: '-100px' }}
               transition={{ duration: 0.8 }}
-              className="relative aspect-[4/5] w-full max-w-sm overflow-hidden bg-rule"
+              className="relative aspect-[2/3] w-full max-w-sm overflow-hidden bg-rule"
             >
               <Image
                 src="/photos/trajectory-rashtrapati.jpeg"
                 alt="Antony Divine Raj at Rashtrapati Bhavan, Delhi"
                 fill
                 sizes="(max-width: 1024px) 80vw, 33vw"
-                className="object-cover"
+                className="object-cover object-center"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-ink/40 via-transparent to-transparent" />
               <div className="absolute bottom-4 left-4 right-4 text-bg text-xs uppercase tracking-[0.18em] tabular">

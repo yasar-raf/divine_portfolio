@@ -53,15 +53,15 @@ export function Contact() {
                 <div className="text-bg tabular">+91 86675 44962</div>
               </a>
               <a
-                href="https://www.linkedin.com/in/antony-divine-raj"
+                href="https://www.linkedin.com/in/divine-raj-372745249/"
                 target="_blank"
-                rel="noopener"
+                rel="noopener noreferrer"
                 className="block border-t border-bg/30 pt-4 hover:border-sienna-soft transition-colors"
               >
                 <div className="text-xs uppercase tracking-[0.18em] text-bg/55 mb-1 tabular">
                   LinkedIn
                 </div>
-                <div className="text-bg">in/antony-divine-raj</div>
+                <div className="text-bg">in/divine-raj-372745249</div>
               </a>
             </div>
           </div>
@@ -77,9 +77,9 @@ export function Contact() {
               <div className="text-xs uppercase tracking-[0.18em] text-bg/55 mb-3 tabular">
                 Reference
               </div>
-              <div className="font-serif text-xl mb-1">Mr. Mahesh</div>
+              <div className="font-serif text-xl mb-1">Mr. Varun</div>
               <div className="text-sm text-bg/70 mb-3">
-                Chief Technical Officer
+                Head of Product
                 <br />
                 TN EMIS · School Education Department
               </div>

@@ -21,14 +21,14 @@ export const fullCaseStudies: Record<string, FullCaseStudy> = {
     slug: 'vocational-education',
     title: 'Vocational Education Module',
     tagline:
-      'A four-phase rollout connecting 1.2 crore students to MSME industries across Tamil Nadu.',
+      'A four-phase rollout connecting 30,000 students and 400 teachers to MSME industries across Tamil Nadu.',
     role: 'Product Manager',
     org: 'Xenovex Technologies × TN EMIS · School Education Department',
     period: 'Feb 2024 — present',
     outcome_stat: [
-      { value: '1,20,00,000', label: 'students tagged to industries' },
+      { value: '30,000', label: 'students tagged to industries' },
+      { value: '400', label: 'teachers onboarded' },
       { value: '4', label: 'phases shipped' },
-      { value: '~5,00,000', label: 'teachers using the system' },
     ],
     sections: [
       {

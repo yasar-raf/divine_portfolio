@@ -54,7 +54,7 @@ export default function OG() {
               maxWidth: 900,
             }}
           >
-            Building public-good tech at scale. 5,00,000 teachers · 1,20,00,000 students.
+            Building public-good tech at scale. 5 lakh teachers · 1.23 crore students.
           </div>
         </div>
 

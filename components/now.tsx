@@ -25,9 +25,11 @@ export function Now() {
           <div className="md:col-span-9">
             <p className="font-serif text-2xl md:text-3xl leading-snug text-ink/90">
               Shipping the <em>Vocational Education Module</em> at TN EMIS — connecting
-              vocational students to MSME industries across Tamil Nadu. Pursuing M.A.
-              Political Science alongside the day job. Reading on state capacity and
-              education policy. Writing at the intersection of policy and product.
+              30,000 students and 400 teachers to MSME industries across Tamil Nadu, while
+              the attendance system I help run reaches 60 lakh students and 3 lakh teachers
+              across government and aided schools. Pursuing M.A. Political Science alongside
+              the day job. Reading on state capacity and education policy. Writing at the
+              intersection of policy and product.
             </p>
           </div>
         </motion.div>

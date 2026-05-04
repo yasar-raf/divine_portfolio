@@ -11,9 +11,9 @@ export function Footer() {
             Email
           </a>
           <a
-            href="https://www.linkedin.com/in/antony-divine-raj"
+            href="https://www.linkedin.com/in/divine-raj-372745249/"
             target="_blank"
-            rel="noopener"
+            rel="noopener noreferrer"
             className="link-underline hover:text-ink transition-colors"
           >
             LinkedIn

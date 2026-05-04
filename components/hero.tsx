@@ -4,8 +4,8 @@ import Image from 'next/image';
 import { motion } from 'framer-motion';
 
 const stats = [
-  { value: '5,00,000', label: 'teachers reached' },
-  { value: '1,20,00,000', label: 'students impacted' },
+  { value: '1.23 crore', label: 'students impacted' },
+  { value: '5 lakh', label: 'teachers reached' },
   { value: '13', label: 'products shipped' },
   { value: '4', label: 'years' },
 ];
@@ -72,7 +72,7 @@ export function Hero() {
               initial={{ opacity: 0, scale: 0.97 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.9, delay: 0.1 }}
-              className="relative aspect-[4/5] w-full overflow-hidden bg-rule"
+              className="relative aspect-[2/3] w-full overflow-hidden bg-rule"
             >
               <Image
                 src="/photos/hero-india-gate.jpeg"
@@ -80,7 +80,7 @@ export function Hero() {
                 fill
                 priority
                 sizes="(max-width: 1024px) 100vw, 40vw"
-                className="object-cover"
+                className="object-cover object-center"
               />
               <div className="absolute inset-0 bg-gradient-to-tr from-ink/30 via-transparent to-transparent" />
             </motion.div>
