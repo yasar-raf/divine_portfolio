@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   title: 'Antony Divine Raj — Product Manager',
   description:
     'Product manager building public-good tech at scale. Currently shipping at TN EMIS, reaching 5 lakh teachers and 1.23 crore students.',
-  metadataBase: new URL('https://divine-portfolio-chi.vercel.app'),
+  metadataBase: new URL('https://divine-portfolio-pm.vercel.app'),
   openGraph: {
     title: 'Antony Divine Raj — Product Manager',
     description:
